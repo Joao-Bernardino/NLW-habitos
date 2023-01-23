@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habist é um app para ajudar a rasrear os hábitos.
 
+- [Visite o projeto online] (https://joao-bernardino.github.io/nlw-habitos)
+
 
 ## 🔖 Layout
 
